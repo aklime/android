@@ -1,4 +1,4 @@
-package com.example.emilia.helloworld;
+package pl.agh.emilia.helloworld;
 
 import org.junit.Test;
 

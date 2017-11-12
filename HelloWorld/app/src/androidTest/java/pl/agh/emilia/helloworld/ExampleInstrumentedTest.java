@@ -1,4 +1,4 @@
-package com.example.emilia.helloworld;
+package pl.agh.emilia.helloworld;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.emilia.helloworld", appContext.getPackageName());
+        assertEquals("pl.agh.emilia.helloworld", appContext.getPackageName());
     }
 }
